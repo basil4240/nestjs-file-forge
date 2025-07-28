@@ -80,10 +80,10 @@ This project will be licensed under the MIT License - see the [LICENSE](LICENSE)
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Mc-Ben Ba-ana**
 - GitHub: [@basil4240](https://github.com/basil4240)
 - LinkedIn: [Mc-Ben](https://www.linkedin.com/in/mc-ben)
-- Email: basil4240@gmail.com.com
+- Email: basil4240@gmail.com
 
 ---
 
